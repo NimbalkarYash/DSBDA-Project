@@ -1,0 +1,398 @@
+Year,State,City,SO2,NO2,PM10,PM2.5
+2021,Andhra Pradesh,Amaravati,14,12,55,28
+2021,Andhra Pradesh,Anatapur,7,16,64,30
+2021,Andhra Pradesh,Chittor,5,14,46,25
+2021,Andhra Pradesh,Eluru,5,17,63,30
+2021,Andhra Pradesh,Guntur,5,17,60,29
+2021,Andhra Pradesh,Kadapa,5,14,53,26
+2021,Andhra Pradesh,Kakinada,8,14,61,28
+2021,Andhra Pradesh,Kurnool,6,15,58,26
+2021,Andhra Pradesh,Nellore,5,17,55,23
+2021,Andhra Pradesh,Ongole,5,17,53,18
+2021,Andhra Pradesh,Rajahmundry,8,15,72,33
+2021,Andhra Pradesh,Srikakulam,9,20,77,27
+2021,Andhra Pradesh,Tirupati,6,22,51,27
+2021,Andhra Pradesh,Vijayawada,5,17,65,34
+2021,Andhra Pradesh,Visakhapatnam,12,35,103,41
+2021,Andhra Pradesh,Vizianagaram,9,19,72,27
+2021,Arunachal Pradesh,Itanagar,3,5,67,-
+2021,Arunachal Pradesh,Naharlagun,27,6,54,15
+2021,Assam,Bongaigaon,4,11,40,-
+2021,Assam,Daranga,6,13,54,-
+2021,Assam,Dibrugarh,6,11,39,-
+2021,Assam,Golaghat,6,12,50,-
+2021,Assam,Guwahati,26,11,114,60
+2021,Assam,Magherita,6,11,41,-
+2021,Assam,Nagaon,6,14,101,-
+2021,Assam,Nalbari,6,14,92,42
+2021,Assam,North Lakhimpur,6,14,57,-
+2021,Assam,Silcher,8,9,46,37
+2021,Assam,Sivasagar,6,12,47,-
+2021,Assam,Tezpur,6,14,97,-
+2021,Assam,Tinsukia,6,11,47,-
+2021,Bihar,Gaya,11,14,79,52
+2021,Bihar,Hajipur,5,11,148,60
+2021,Bihar,Muzaffarpur,6,13,142,80
+2021,Bihar,Patna,8,39,150,73
+2021,Chandigarh,(UT) Chandigarh,6,24,98,49
+2021,Chattisgarh,Bilaspur,8,13,71,28
+2021,Chattisgarh,Durg -Bhillainagar,7,11,61,31
+2021,Chattisgarh,Korba,8,18,61,-
+2021,Chattisgarh,Raigarh,-,-,65,28
+2021,Chattisgarh,Raipur,13,22,62,35
+2021,Unknown,and Daman & Diu (UT) Daman,15,20,84,30
+2021,Delhi,(UT) Delhi,10,42,207,107
+2021,Goa,Amona,7,13,59,27
+2021,Goa,Assanora,7,13,58,26
+2021,Goa,Bicholim,8,13,61,28
+2021,Goa,Codli,7,13,62,28
+2021,Goa,Cuncolim,6,13,67,32
+2021,Goa,Honda,7,13,61,28
+2021,Goa,Kundaim,7,13,62,28
+2021,Goa,Mapusa,2,16,57,24
+2021,Goa,Margao,7,13,59,27
+2021,Goa,Panaji,2,15,73,26
+2021,Goa,Ponda,8,13,63,28
+2021,Goa,Sanguem,7,13,60,28
+2021,Goa,Tilamol,7,13,62,29
+2021,Goa,Tuem,7,13,59,27
+2021,Goa,Usgao -Pale,8,13,64,29
+2021,Goa,Vasco,2,15,58,32
+2021,Gujarat,Ahmedabad,17,34,123,46
+2021,Gujarat,Ankleshwar,40,26,120,63
+2021,Gujarat,Gandhinagar,9,15,78,40
+2021,Gujarat,Jamnagar,14,18,116,28
+2021,Gujarat,Nandesari,6,8,72,51
+2021,Gujarat,Navarangpur,12,16,97,23
+2021,Gujarat,Rajkot,14,18,118,30
+2021,Gujarat,Surat,20,24,100,35
+2021,Unknown,Gujara Saraspur,13,17,120,27
+2021,Gujarat,Vadodara,15,19,111,30
+2021,Gujarat,Vapi,16,24,114,51
+2021,Gujarat,Vatva,28,68,160,67
+2021,Haryana,Ambala,9,21,122,62
+2021,Haryana,Bahadurgarh,13,28,-,91
+2021,Haryana,Ballabgarh,9,35,165,82
+2021,Haryana,Bhiwani,13,23,135,50
+2021,Haryana,Charkhi Dadri,5,28,156,79
+2021,Haryana,Dharuhera,18,26,187,77
+2021,Haryana,Faridabad,10,35,230,98
+2021,Haryana,Fatehabad,10,22,153,61
+2021,Haryana,Gurgaon,6,20,174,93
+2021,Haryana,Hissar,12,30,162,92
+2021,Haryana,Jind,10,24,145,88
+2021,Haryana,Kaithal,21,17,144,58
+2021,Haryana,Karnal,26,20,119,60
+2021,Haryana,Kurukshetra,10,29,142,69
+2021,Haryana,Mandikhera,15,21,92,52
+2021,Haryana,Manesar,8,9,164,96
+2021,Haryana,Narnaul,7,25,175,69
+2021,Haryana,Palwal,10,11,127,37
+2021,Haryana,Panchukula Urban Estate,10,23,-,49
+2021,Haryana,Panipat,39,15,196,61
+2021,Haryana,Rohtak,10,70,-,90
+2021,Haryana,Sirsa,15,26,129,57
+2021,Haryana,Sonepat,9,24,319,55
+2021,Haryana,Yamuna Nagar,7,24,166,79
+2021,Himachal Pradesh,Baddi,2,13,139,45
+2021,Himachal Pradesh,Damtal,2,5,67,33
+2021,Himachal Pradesh,Dharamshala,2,5,42,22
+2021,Himachal Pradesh,Kala Amb,4,15,118,51
+2021,Himachal Pradesh,Manali,2,7,41,13
+2021,Himachal Pradesh,Nalagarh,2,12,92,29
+2021,Himachal Pradesh,Parwanoo,2,5,38,11
+2021,Himachal Pradesh,Poanta Sahib,3,13,90,44
+2021,Himachal Pradesh,Shimla,2,6,58,22
+2021,Himachal Pradesh,Sunder Nagar,2,5,52,23
+2021,Himachal Pradesh,Una,2,7,53,20
+2021,Jammu,& Kashmir (UT) Jammu,3,20,172,31
+2021,Jammu,& Kashmir (UT) Pulwama (K),5,15,128,-
+2021,Jammu,& Kashmir (UT) Srinagar (K),10,14,97,32
+2021,Jharkhand,Barajamda,15,20,72,-
+2021,Jharkhand,Dhanbad,13,35,247,-
+2021,Jharkhand,Jamshedpur,35,44,112,-
+2021,Jharkhand,Jharia,14,36,314,-
+2021,Jharkhand,Jorapokhar,23,7,97,-
+2021,Jharkhand,Ranchi,18,36,110,105
+2021,Jharkhand,Saraikela,36,44,115,-
+2021,Jharkhand,Sindri,14,35,179,-
+2021,Karnataka,Bagalkote,7,11,41,21
+2021,Karnataka,Bangalore,5,21,67,31
+2021,Karnataka,Belgaum,2,11,81,25
+2021,Karnataka,Bidar,26,7,71,39
+2021,Karnataka,Bijapur / Vijayapura,5,11,50,23
+2021,Karnataka,Chamarajanagar,4,17,49,24
+2021,Karnataka,Chikkaballapur,6,25,57,27
+2021,Karnataka,Chikkamagaluru,4,17,40,23
+2021,Karnataka,Chitradurga,2,5,38,9
+2021,Karnataka,Devanagere,10,14,54,15
+2021,Karnataka,Gadag,30,12,32,30
+2021,Karnataka,Gulbarga / Kalaburgi,13,24,79,42
+2021,Karnataka,Hassan,15,21,60,22
+2021,Karnataka,Hubli -Dharwad,7,22,71,29
+2021,Karnataka,Kolar,33,14,50,28
+2021,Karnataka,Koppal,13,12,40,17
+2021,Karnataka,Madikeri,15,5,36,18
+2021,Karnataka,Mandya,2,13,34,19
+2021,Karnataka,Mangalore,19,26,51,26
+2021,Karnataka,Mysore,4,19,46,20
+2021,Karnataka,Raichur,7,22,90,33
+2021,Karnataka,Ramanagara,18,18,52,27
+2021,Karnataka,Shimaga / Shivamogga,3,21,45,23
+2021,Karnataka,Tumkuru,2,15,62,31
+2021,Karnataka,Udupi,19,14,33,-
+2021,Karnataka,Yadgir,12,14,59,29
+2021,Kerala,Alappuzha,2,5,52,-
+2021,Kerala,Eloor,13,14,47,25
+2021,Kerala,Ernakulam,5,8,50,26
+2021,Kerala,Kannur,2,19,73,34
+2021,Kerala,Kochi,6,11,53,30
+2021,Kerala,Kollam,3,24,77,38
+2021,Kerala,Kottayam,2,12,38,-
+2021,Kerala,Kozhikode,3,5,51,19
+2021,Kerala,Mallappuram,2,16,31,26
+2021,Kerala,Palakkad,2,5,57,33
+2021,Kerala,Pathanamthitta,2,13,33,-
+2021,Kerala,Thiruvanantapuram,6,8,47,23
+2021,Kerala,Thrissur,23,5,49,38
+2021,Kerala,Wayanad,2,5,29,14
+2021,Madhya Pradesh,Amlai,10,22,72,31
+2021,Madhya Pradesh,Bhopal,17,24,119,45
+2021,Madhya Pradesh,Chindwara,5,13,66,28
+2021,Madhya Pradesh,Damoh,-,14,62,38
+2021,Madhya Pradesh,Dewas,12,20,83,37
+2021,Madhya Pradesh,Gwalior,16,23,115,50
+2021,Madhya Pradesh,Indore,13,35,105,44
+2021,Madhya Pradesh,Jabalpur,12,33,114,44
+2021,Madhya Pradesh,Katni,14,26,142,55
+2021,Madhya Pradesh,Maihar,11,11,57,33
+2021,Madhya Pradesh,Mandideep,30,30,98,43
+2021,Madhya Pradesh,Nagda,6,5,41,19
+2021,Madhya Pradesh,Pithampur,16,21,89,45
+2021,Madhya Pradesh,Ratlam,13,20,98,42
+2021,Madhya Pradesh,Rewa,9,18,70,34
+2021,Madhya Pradesh,Sagar,7,18,80,34
+2021,Madhya Pradesh,Satna,15,9,80,26
+2021,Madhya Pradesh,Singrauli,29,41,182,77
+2021,Madhya Pradesh,Ujjain,7,15,113,42
+2021,Maharashtra,Akola,14,14,63,-
+2021,Maharashtra,Ambernath,20,53,77,-
+2021,Maharashtra,Amravati,13,19,64,-
+2021,Maharashtra,Aurangabad,17,28,80,34
+2021,Maharashtra,Badlapur,21,56,96,-
+2021,Maharashtra,Bhiwandi,29,42,62,-
+2021,Maharashtra,Chandrapur,9,19,105,44
+2021,Maharashtra,Dombivali / Kalyan,29,16,121,59
+2021,Maharashtra,Jalgaon,12,22,60,-
+2021,Maharashtra,Jalna,10,41,93,-
+2021,Maharashtra,Kolhapur,17,28,85,-
+2021,Maharashtra,Latur,7,17,57,-
+2021,Maharashtra,Mumbai,14,23,106,47
+2021,Maharashtra,Nagpur,10,25,72,36
+2021,Maharashtra,Nanded,18,31,54,-
+2021,Maharashtra,Nashik,4,27,59,40
+2021,Maharashtra,Navi Mumbai,15,35,92,52
+2021,Maharashtra,Pimpri -Chinchwad,21,41,84,-
+2021,Maharashtra,Pune,26,38,108,45
+2021,Maharashtra,Roha,10,33,128,-
+2021,Maharashtra,Sangli,9,37,72,-
+2021,Maharashtra,Solapur,11,16,72,36
+2021,Maharashtra,Thane,11,46,135,-
+2021,Maharashtra,Ulhas Nagar,21,56,81,-
+2021,Maharashtra,,Vasai,virar,147,41
+2021,Manipur,Imphal,6,26,123,48
+2021,Meghalaya,Byraihat,13,14,226,30
+2021,Meghalaya,Dawki,-,8,37,8
+2021,Meghalaya,Khlihriat,4,7,42,7
+2021,Meghalaya,Nongstoin,3,8,35,7
+2021,Meghalaya,Shillong,10,6,27,12
+2021,Meghalaya,Tura,3,7,37,6
+2021,Meghalaya,Umaim,4,9,101,12
+2021,Mizoram,Aizwal,10,3,41,24
+2021,Mizoram,Champhai,2,5,22,15
+2021,Mizoram,Khatla,2,5,25,25
+2021,Mizoram,Kolasib,2,5,17,8
+2021,Mizoram,Lawngtlai,2,6,65,-
+2021,Mizoram,Lunglei,2,5,25,6
+2021,Mizoram,Lengpui,2,7,39,39
+2021,Mizoram,Mamit,2,5,32,-
+2021,Mizoram,Saiha,2,5,37,-
+2021,Mizoram,Serchhip,2,5,35,-
+2021,Nagaland,Dimapur,2,7,88,-
+2021,Nagaland,Kohima,20,3,77,33
+2021,Odisha,Angul,10,27,96,36
+2021,Odisha,Balasore,4,11,76,44
+2021,Odisha,Berhampur,5,20,63,25
+2021,Odisha,Bhubaneshwar,2,16,94,36
+2021,Odisha,Bonaigarh,9,12,103,39
+2021,Odisha,Brajrajnagar,25,19,71,34
+2021,Odisha,Cuttack,4,18,87,35
+2021,Odisha,Jharsuguda,8,14,102,56
+2021,Odisha,Kalinga Nagar,2,16,115,68
+2021,Odisha,Konark,2,13,63,-
+2021,Odisha,Paradeep,16,11,114,-
+2021,Odisha,Puri,2,4,77,-
+2021,Odisha,Rajgangpur,10,13,129,42
+2021,Odisha,Rayagada,5,16,68,33
+2021,Odisha,Rourkela,9,12,125,48
+2021,Odisha,Sambalpur,7,25,103,42
+2021,Odisha,Talcher,16,29,88,40
+2021,Pondicherry,(UT) Karaikal,2,5,41,-
+2021,Pondicherry,(UT) Pondicherry,7,11,42,20
+2021,Punjab,Aligarh (Jagraon),8,16,76,-
+2021,Punjab,Amritsar,14,21,116,51
+2021,Punjab,Aspal Khurd (Tapa),7,19,106,-
+2021,Punjab,Bara Pind (Goraya),7,17,87,-
+2021,Punjab,Batala,7,19,77,-
+2021,Punjab,Bhatinda,6,15,105,50
+2021,Punjab,Binjon (Garshankar),6,15,81,-
+2021,Punjab,Bishanpura (Payal),8,20,137,-
+2021,Punjab,Changal (Sangrur),6,16,99,-
+2021,Punjab,Chowkimann (Jagraon),7,16,182,-
+2021,Punjab,Dera Baba Nanak,7,13,74,-
+2021,Punjab,Dera Bassi,7,18,100,-
+2021,Punjab,Fatehpur (Samana),6,17,91,-
+2021,Unknown,Gobindgarh,10,21,122,63
+2021,Punjab,Guru Ki Dhab (Kotkapura),4,11,91,-
+2021,Punjab,Jaito Sarja (Batala),6,14,70,-
+2021,Punjab,Jalandhar,13,22,120,55
+2021,Punjab,Khanna,13,24,105,49
+2021,Punjab,Kharaori (Sirhind),6,19,92,-
+2021,Punjab,Kotladoom (Ajnala),8,15,111,-
+2021,Unknown,(Ferozpur),4,15,91,-
+2021,Punjab,Ludhiana,10,30,149,54
+2021,Punjab,Mrar Kalan (Muktsar),-,-,-,-
+2021,Punjab,Mukandpur (Nawashahar),7,18,104,-
+2021,Punjab,Mureedke (Batala),6,16,85,-
+2021,Punjab,Naudhrani ( Malerkotla),5,17,95,-
+2021,Punjab,Naya Nangal,5,15,78,-
+2021,Punjab,Patiala,6,18,110,50
+2021,Unknown,(Jalalabad),4,11,85,-
+2021,Punjab,Poohli (Bhatinda),-,-,-,-
+2021,Punjab,Qila Bharian,(Sangrur),5,16,94
+2021,Punjab,Rakhra,(Patiala),6,18,90
+2021,Punjab,Rohila,(Samrala),8,17,119
+2021,Punjab,Rupnagar,11,8,126,59
+2021,Punjab,Subanpur (Dhilwan),-,-,-,-
+2021,Punjab,Tirathpur (Amritsar I),8,18,128,-
+2021,Rajasthan,Ajmer,13,24,96,45
+2021,Rajasthan,Alwar,12,27,112,43
+2021,Rajasthan,Bharatpur,10,35,210,-
+2021,Rajasthan,Bhiwadi,24,39,204,110
+2021,Rajasthan,Chittorgargh,8,24,119,-
+2021,Rajasthan,Jaipur,10,31,124,58
+2021,Rajasthan,Jodhpur,7,25,168,75
+2021,Rajasthan,Kota,9,26,114,60
+2021,Rajasthan,Pali,9,20,118,58
+2021,Rajasthan,Udaipur,11,26,120,55
+2021,Sikkim,Chungthang,5,5,27,-
+2021,Sikkim,Gangtok,5,11,49,31
+2021,Sikkim,Mangan,5,9,27,-
+2021,Sikkim,Namchi,5,5,30,-
+2021,Sikkim,Pelling,6,4,29,-
+2021,Sikkim,Rangpo,7,10,64,-
+2021,Sikkim,Ravangla,4,3,23,-
+2021,Sikkim,Singtam,8,9,32,-
+2021,Tamilnadu,Chennai,11,13,58,26
+2021,Tamilnadu,Coimbatore,10,20,47,32
+2021,Tamilnadu,Cuddalore,13,19,48,25
+2021,Tamilnadu,Dharmapuri,8,24,42,23
+2021,Tamilnadu,Gummidipoondi,12,13,105,45
+2021,Tamilnadu,Madurai,13,17,54,25
+2021,Tamilnadu,Mettur,8,25,39,22
+2021,Tamilnadu,Nagarcoil,8,15,39,9
+2021,Tamilnadu,Perambalur,9,13,34,15
+2021,Tamilnadu,Salem,8,25,40,23
+2021,Tamilnadu,Sivagangai,9,14,35,15
+2021,Tamilnadu,Trichy,12,16,47,19
+2021,Tamilnadu,Theni,11,17,60,26
+2021,Tamilnadu,Tiruvannamalai,5,13,52,25
+2021,Tamilnadu,Tiruvarur,10,14,35,16
+2021,Tamilnadu,Villupuram,11,16,42,17
+2021,Tamilnadu,Tuticorin / Thoothukudi,5,7,67,21
+2021,Telangana,Adilabad,6,25,71,-
+2021,Telangana,Hyderabad,6,34,89,39
+2021,Telangana,Karimnagar,7,39,76,-
+2021,Telangana,Khammam,7,39,72,-
+2021,Telangana,Kothur,9,46,100,-
+2021,Telangana,Nalgonda,6,26,71,28
+2021,Telangana,Nizamabad,6,25,59,31
+2021,Telangana,Patencheru,6,27,78,34
+2021,Telangana,Ramagundum,8,46,91,97
+2021,Telangana,Sangareddy,5,45,82,45
+2021,Telangana,Warangal,7,35,60,60
+2021,Tripura,Agartala,19,9,82,50
+2021,Uttar Pradesh,Agra,5,20,164,85
+2021,Uttar Pradesh,Aligarh,19,31,165,-
+2021,Uttar Pradesh,Allahabad,8,22,133,53
+2021,Uttar Pradesh,Anpara,17,25,153,-
+2021,Uttar Pradesh,Ayodhya,5,18,166,-
+2021,Uttar Pradesh,Bagpat,13,28,211,94
+2021,Uttar Pradesh,Bareily,26,33,177,-
+2021,Uttar Pradesh,Bulandshahr,15,24,195,93
+2021,Uttar Pradesh,,Firozabad,8,28,162
+2021,Uttar Pradesh,Gajroula,17,26,174,-
+2021,Uttar Pradesh,Ghaziabad,16,38,233,110
+2021,Uttar Pradesh,Gorakhpur,17,26,241,-
+2021,Uttar Pradesh,Greater Noida,12,47,221,96
+2021,Uttar Pradesh,Hapur,13,15,165,70
+2021,Uttar Pradesh,Jhansi,8,18,117,-
+2021,Uttar Pradesh,Kanpur,12,44,199,71
+2021,Uttar Pradesh,Khurja,22,28,183,-
+2021,Uttar Pradesh,Lucknow,9,34,174,80
+2021,Uttar Pradesh,Mathura,12,27,170,-
+2021,Uttar Pradesh,Meerut,15,57,199,86
+2021,Uttar Pradesh,Moradabad,15,21,184,95
+2021,Uttar Pradesh,Muzaffarnagar,19,20,173,80
+2021,Uttar Pradesh,Noida,13,40,215,99
+2021,Uttar Pradesh,Raibareli,6,12,111,-
+2021,Uttar Pradesh,Saharanpur,13,22,181,-
+2021,Uttar Pradesh,Unnao,8,25,127,-
+2021,Uttar Pradesh,Varanasi,12,34,133,60
+2021,Uttarakhand,Dehradun,22,26,154,89
+2021,Uttarakhand,Haldwani,7,25,110,38
+2021,Uttarakhand,Haridwar,13,20,117,81
+2021,Uttarakhand,Kashipur,17,21,118,62
+2021,Uttarakhand,Rishikesh,20,25,132,76
+2021,Uttarakhand,Rudrapur,19,22,123,-
+2021,West Bengal,,Alipurduar,9,34,97
+2021,West Bengal,Amtala,6,39,108,-
+2021,West Bengal,Asansol,9,29,123,59
+2021,West Bengal,Baharampur,2,19,79,-
+2021,West Bengal,Balurghat,9,34,106,-
+2021,West Bengal,Bankura,2,15,78,-
+2021,West Bengal,Barasat,3,23,90,-
+2021,West Bengal,Bardhaman,2,14,77,-
+2021,West Bengal,Barrckpore,4,22,86,54
+2021,West Bengal,Baruipur,7,40,121,-
+2021,West Bengal,Bolpur,2,14,75,-
+2021,West Bengal,Chinsura,2,20,83,-
+2021,West Bengal,Coochbihar,9,34,100,-
+2021,West Bengal,Dankuni,2,21,85,-
+2021,West Bengal,Darjeeling,8,32,62,32
+2021,West Bengal,Durgapur,19,27,163,78
+2021,West Bengal,Ghatal,12,37,106,-
+2021,West Bengal,Haldia,12,28,97,41
+2021,West Bengal,Howrah,14,33,129,77
+2021,West Bengal,Jalpaiguri,8,34,96,65
+2021,West Bengal,Jhargram,12,38,101,-
+2021,West Bengal,Kalimpong,8,32,64,-
+2021,West Bengal,Kalyani,2,21,83,48
+2021,West Bengal,Kharagpur,13,39,124,-
+2021,West Bengal,Kolkata,9,36,107,48
+2021,West Bengal,Krishnanagar,2,20,80,-
+2021,West Bengal,Madhyamgram,3,22,87,-
+2021,West Bengal,Malda,9,35,112,-
+2021,West Bengal,Medinipur,12,36,102,-
+2021,West Bengal,Purulia,2,14,74,-
+2021,West Bengal,Raigunj,9,34,104,-
+2021,West Bengal,,Rampurhat,2,15,78
+2021,West Bengal,Ranaghat,2,20,83,-
+2021,West Bengal,Raniganj,12,31,130,-
+2021,West Bengal,,Rishra,4,23,91
+2021,West Bengal,Sankrail,13,40,126,-
+2021,West Bengal,Siliguri,5,35,105,59
+2021,West Bengal,Suri,2,31,77,-
+2021,West Bengal,Tamluk,13,38,124,-
+2021,West Bengal,Tribeni,2,20,86,-
+2021,West Bengal,Uluberia,13,41,115,-

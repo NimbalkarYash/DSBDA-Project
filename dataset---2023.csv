@@ -1,0 +1,107 @@
+State / Union Territory,City / Town,SO2​,NO2​,PM10​,PM2.5​
+Andaman & Nicobar (UT),Port Blair,NM,NM,22,-
+Andhra Pradesh,Amaravati,14,11,71,34
+Andhra Pradesh,Chittoor,5,11,57,33
+Andhra Pradesh,Kadapa,4,22,53,34
+Andhra Pradesh,Kakinada,8,16,76,-
+Andhra Pradesh,Kurnool,7,17,60,30
+Andhra Pradesh,Rajahmundry,10,16,78,38
+Andhra Pradesh,Tirupati,5,30,61,32
+Andhra Pradesh,Vijayawada,6,19,71,38
+Andhra Pradesh,Visakhapatnam,11,34,129,50
+Andhra Pradesh,Vizianagaram,9,20,74,28
+Arunachal Pradesh,Naharlagun,-,-,45,24
+Assam,Bongaigaon,5,12,51,24
+Assam,Brynihat,33,28,289,146
+Assam,Guwahati,13,10,120,57
+Assam,Nagaon,11,15,113,51
+Assam,Nalbari,6,17,132,61
+Assam,Silcher,6,11,33,17
+Assam,Sivasagar,4,12,40,18
+Assam,Tinsukia,6,12,52,24
+Bihar,Araria,15,26,167,73
+Bihar,Arrah,10,36,168,84
+Bihar,Aurangabad,12,8,139,61
+Bihar,Begusarai,18,39,264,147
+Bihar,Bettiah,9,24,187,85
+Bihar,Bhagalpur,17,33,167,82
+Bihar,Bihar Sharif,10,7,121,42
+Bihar,Chhapra,17,20,210,82
+Bihar,Gaya,12,21,119,59
+Bihar,Hajipur,6,28,173,57
+Bihar,Katihar,14,50,193,89
+Bihar,Kishanganj,12,35,148,57
+Bihar,Manguraha,5,31,91,47
+Bihar,Motihari,7,49,142,47
+Bihar,Munger,20,28,193,73
+Bihar,Muzaffarpur,13,21,179,83
+Bihar,Patna,8,32,183,90
+Bihar,Purnia,9,28,154,89
+Bihar,Rajgir,5,18,141,73
+Bihar,Saharsa,16,7,183,89
+Bihar,Samastipur,14,18,184,82
+Bihar,Sasaram,18,26,99,57
+Bihar,Siwan,13,47,176,88
+Chandigarh (UT),Chandigarh,6,25,113,58
+Chattisgarh,Bilaspur,10,10,71,31
+Chattisgarh,Chhal,15,16,64,28
+Chattisgarh,Durg Bhillainagar,11,14,66,31
+Chattisgarh,Korba,8,26,65,31
+Chattisgarh,Kunjemura,9,32,96,19
+Chattisgarh,Milupara,9,19,50,22
+Chattisgarh,Raigarh,NM,NM,93,38
+Chattisgarh,Raipur,9,33,77,31
+Chattisgarh,Tumidh,9,21,88,35
+Delhi (UT),Delhi,8,38,205,105
+Goa,Mapusa,3,12,62,-
+Goa,Panaji,3,13,71,21
+Gujarat,Ahmedabad,12,18,100,39
+Gujarat,Ankleshwar,31,30,91,47
+Gujarat,Gandhinagar,7,8,87,48
+Gujarat,Nandesari,-,8,25,18
+Gujarat,Rajkot,14,19,94,25
+Gujarat,Surat,16,14,121,50
+Gujarat,Vadodara,14,19,96,26
+Gujarat,Vapi,25,24,105,60
+Gujarat,Vatva,8,-,118,54
+Haryana,Ambala,10,23,81,42
+Haryana,Bahadurgarh,9,28,149,76
+Haryana,Ballabgarh,11,8,137,65
+Haryana,Bhiwani,11,21,126,67
+Haryana,Charkhi Dadri,9,14,135,77
+Haryana,Dharuhera,7,32,185,80
+Haryana,Faridabad,15,19,196,86
+Haryana,Fatehabad,7,-,139,65
+Haryana,Gurgaon,12,25,176,90
+Haryana,Hissar,14,22,136,66
+Haryana,Jind,8,34,103,65
+Haryana,Kaithal,14,-,126,69
+Haryana,Karnal,22,8,92,50
+Haryana,Kurukshetra,10,21,110,63
+Haryana,Mandikhera,19,15,101,22
+Haryana,Manesar,10,20,138,77
+Haryana,Narnaul,13,25,129,62
+Haryana,Palwal,9,15,89,30
+Haryana,Panchkula,10,-,NM,51
+Haryana,Panipat,11,24,132,42
+Haryana,Rohtak,9,30,NM,70
+Haryana,Sirsa,13,25,106,43
+Haryana,Sonipat,17,31,178,64
+Haryana,Yamuna Nagar,16,13,129,62
+Himachal Pradesh,Baddi,24,18,119,53
+Himachal Pradesh,Manali,2,7,37,12
+Himachal Pradesh,Shimla,2,7,34,14
+Jammu & Kashmir,Jammu,3,16,108,23
+Jharkhand,Dhanbad,25,62,148,68
+Karnataka,Bangalore,6,21,68,33
+Karnataka,Mysore,4,17,51,22
+Kerala,Kochi,16,9,75,34
+Madhya Pradesh,Bhopal,13,22,111,47
+Madhya Pradesh,Indore,13,38,107,43
+Maharashtra,Mumbai,18,29,108,47
+Maharashtra,Pune,40,54,99,52
+Rajasthan,Jaipur,9,32,143,55
+Tamilnadu,Chennai,10,21,63,28
+Uttar Pradesh,Lucknow,10,25,141,56
+Uttar Pradesh,Noida,16,53,183,81
+West Bengal,Kolkata,8,26,94,48

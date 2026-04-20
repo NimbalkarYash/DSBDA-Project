@@ -1,0 +1,784 @@
+Year,State,City,NO2,SO2,PM10,PM2.5
+2020,Andhra Pradesh,Adjacent,11.0,5.0,-,-
+2020,Andhra Pradesh,Annual,15.0,6.0,-,-
+2020,Andhra Pradesh,Apparao,13.0,8.0,-,-
+2020,Andhra Pradesh,Autonagar,17.0,5.0,-,-
+2020,Andhra Pradesh,Bamunimaidam,13.0,8.0,-,-
+2020,Andhra Pradesh,Banglow,7.0,4.0,-,-
+2020,Andhra Pradesh,Barpara,11.0,4.0,-,-
+2020,Andhra Pradesh,Baska,12.0,6.0,-,-
+2020,Andhra Pradesh,Benz,17.0,5.0,-,-
+2020,Andhra Pradesh,Borguri,12.0,5.5,-,-
+2020,Andhra Pradesh,Brindavnam,17.0,5.0,-,-
+2020,Andhra Pradesh,Chandramouli,17.0,5.0,-,-
+2020,Andhra Pradesh,Chirang,11.0,4.0,-,-
+2020,Andhra Pradesh,Chitoor,17.0,5.0,-,-
+2020,Andhra Pradesh,Chittoor,11.0,4.0,-,-
+2020,Andhra Pradesh,Circle,13.0,8.0,-,-
+2020,Andhra Pradesh,Dibrugarh,11.0,5.0,-,-
+2020,Andhra Pradesh,District,18.0,7.0,-,-
+2020,Andhra Pradesh,Durg,11.0,7.0,-,-
+2020,Andhra Pradesh,Eluru,18.0,5.0,-,-
+2020,Andhra Pradesh,Ganapuram,20.0,9.0,-,-
+2020,Andhra Pradesh,Gannavaram,17.0,5.0,-,-
+2020,Andhra Pradesh,General,15.133333333333333,5.2,-,-
+2020,Andhra Pradesh,Ghaniwala,10.0,7.0,-,-
+2020,Andhra Pradesh,Golaghat,12.0,6.0,-,-
+2020,Andhra Pradesh,Gopinath,13.0,6.0,-,-
+2020,Andhra Pradesh,Governorpet,17.0,5.0,-,-
+2020,Andhra Pradesh,Greamspet,11.0,5.0,-,-
+2020,Andhra Pradesh,Gundlapalli,17.0,5.0,-,-
+2020,Andhra Pradesh,Gurunank,17.0,5.0,-,-
+2020,Andhra Pradesh,Hirapur,22.0,13.0,-,-
+2020,Andhra Pradesh,Industrial,18.5,5.0,-,-
+2020,Andhra Pradesh,Jamnipali,17.0,7.0,-,-
+2020,Andhra Pradesh,Janiganj,11.0,7.0,-,-
+2020,Andhra Pradesh,Kadapa,14.0,6.0,-,-
+2020,Andhra Pradesh,Kaimbwala,13.0,2.0,-,-
+2020,Andhra Pradesh,Kakinada,13.0,7.0,-,-
+2020,Andhra Pradesh,Kallur,14.0,6.0,-,-
+2020,Andhra Pradesh,Kamrup,13.0,6.0,-,-
+2020,Andhra Pradesh,Kanuru,17.0,5.0,-,-
+2020,Andhra Pradesh,Kondaplli,17.0,5.0,-,-
+2020,Andhra Pradesh,Krishna,13.0,5.0,-,-
+2020,Andhra Pradesh,Kushalapuram,17.0,7.0,-,-
+2020,Andhra Pradesh,Laghu,12.0,7.0,-,-
+2020,Andhra Pradesh,Margherita,12.0,6.0,-,-
+2020,Andhra Pradesh,Market,18.0,5.0,-,-
+2020,Andhra Pradesh,Marripalem,20.0,9.0,-,-
+2020,Andhra Pradesh,Mindi,18.0,8.0,-,-
+2020,Andhra Pradesh,Muncipal,18.0,8.0,-,-
+2020,Andhra Pradesh,Municipal,15.5,6.0,-,-
+2020,Andhra Pradesh,Nagaon,13.0,6.0,-,-
+2020,Andhra Pradesh,Near,12.0,5.0,-,-
+2020,Andhra Pradesh,North,13.0,5.0,-,-
+2020,Andhra Pradesh,Old,17.0,7.0,-,-
+2020,Andhra Pradesh,Ongole,17.0,5.0,-,-
+2020,Andhra Pradesh,Paidichintaadu,17.0,5.0,-,-
+2020,Andhra Pradesh,Palamaner,12.0,5.0,-,-
+2020,Andhra Pradesh,Paper,15.0,9.0,-,-
+2020,Andhra Pradesh,Parawada,19.0,8.0,-,-
+2020,Andhra Pradesh,Pithapuram,12.0,7.0,-,-
+2020,Andhra Pradesh,Police,18.5,7.0,-,-
+2020,Andhra Pradesh,Prakasam,17.0,5.0,-,-
+2020,Andhra Pradesh,Pydibhimavaram,18.0,7.0,-,-
+2020,Andhra Pradesh,Rajiv,12.0,5.0,-,-
+2020,Andhra Pradesh,Rajvihar,16.0,6.0,-,-
+2020,Andhra Pradesh,Ram,14.0,5.0,-,-
+2020,Andhra Pradesh,Rampur,18.0,8.0,-,-
+2020,Andhra Pradesh,Ring,17.0,-,-,-
+2020,Andhra Pradesh,Roads,13.0,6.0,-,-
+2020,Andhra Pradesh,Sailipeta,13.0,7.0,-,-
+2020,Andhra Pradesh,Santipur,13.0,6.0,-,-
+2020,Andhra Pradesh,Sarora,24.0,13.0,-,-
+2020,Andhra Pradesh,Satrampadu,17.0,5.0,-,-
+2020,Andhra Pradesh,Sector,28.0,2.0,-,-
+2020,Andhra Pradesh,Seethammadhara,18.0,7.0,-,-
+2020,Andhra Pradesh,Shastri,33.0,3.0,-,-
+2020,Andhra Pradesh,Sivasagar,11.0,5.0,-,-
+2020,Andhra Pradesh,Suryaraopeta,14.0,8.0,-,-
+2020,Andhra Pradesh,Tezpur,13.0,6.0,-,-
+2020,Andhra Pradesh,Tilak,12.0,5.0,-,-
+2020,Andhra Pradesh,Vedayapalem,17.0,5.0,-,-
+2020,Andhra Pradesh,Venkataramana,12.0,5.0,-,-
+2020,Andhra Pradesh,Yenamalakuduru,16.0,5.0,-,-
+2020,Dadra,General,41.333333333333336,13.5,-,-
+2020,Dadra,Kadaiya,48.333333333333336,16.0,-,-
+2020,Dadra,Khadoli,50.333333333333336,17.0,-,-
+2020,Daman,Ahmadabad,58.75,14.0,-,-
+2020,Daman,Annual,58.0,5.0,-,-
+2020,Daman,Bardez,34.5,9.0,-,-
+2020,Daman,Bhavanafarm,55.0,15.0,-,-
+2020,Daman,Bicholim,35.75,8.5,-,-
+2020,Daman,Cadilla,60.0,14.0,-,-
+2020,Daman,College,53.0,15.5,-,-
+2020,Daman,Commissioner,25.5,2.0,-,-
+2020,Daman,Cuncolim,39.5,9.0,-,-
+2020,Daman,Damtal,33.0,2.0,-,-
+2020,Daman,Dandia,56.5,14.0,-,-
+2020,Daman,Dharamshala,22.5,2.0,-,-
+2020,Daman,General,56.473684210526315,10.777777777777779,-,-
+2020,Daman,Geri,47.0,13.0,-,-
+2020,Daman,Gondhpur,47.5,3.0,-,-
+2020,Daman,Himachal,108.0,-,-,-
+2020,Daman,Housing,17.0,2.0,-,-
+2020,Daman,Jamnagar,54.5,14.0,-,-
+2020,Daman,Janakpuri,225.0,-,-,-
+2020,Daman,Kala,45.25,3.5,-,-
+2020,Daman,Kullu,18.5,2.0,-,-
+2020,Daman,Kundaim,37.0,9.0,-,-
+2020,Daman,Mandi,27.0,2.0,-,-
+2020,Daman,Mapusa,24.5,2.0,-,-
+2020,Daman,Margao,34.5,8.0,-,-
+2020,Daman,Mirzapur,59.5,14.0,-,-
+2020,Daman,Mormugao,35.0,2.0,-,-
+2020,Daman,Nani,41.0,12.0,-,-
+2020,Daman,Near,58.5,19.0,-,-
+2020,Daman,Nizamuddin,149.5,4.0,-,-
+2020,Daman,Old,7.0,2.0,-,-
+2020,Daman,Paonta,40.0,3.0,-,-
+2020,Daman,Patto,33.0,2.0,-,-
+2020,Daman,Ponda,36.75,8.5,-,-
+2020,Daman,Pritampura,145.0,5.0,-,-
+2020,Daman,Rakhiyal,55.5,14.0,-,-
+2020,Daman,Sanguem,34.25,8.0,-,-
+2020,Daman,Saraspur,58.0,14.0,-,-
+2020,Daman,Sardhara,62.5,15.0,-,-
+2020,Daman,Sattari,37.5,9.0,-,-
+2020,Daman,Sector,64.0,2.0,-,-
+2020,Daman,Shahadra,115.5,4.0,-,-
+2020,Daman,Shahzada,141.5,4.0,-,-
+2020,Daman,Shimla,24.0,2.0,-,-
+2020,Daman,Siri,106.5,4.0,-,-
+2020,Daman,Tilamol,39.0,9.0,-,-
+2020,Daman,Tuem,34.0,8.0,-,-
+2020,Daman,Udhna,70.5,22.0,-,-
+2020,Daman,Una,49.0,-,-,-
+2020,Daman,Vapi,47.5,14.0,-,-
+2020,Daman,Vill,54.0,15.0,-,-
+2020,Daman,Winterfield,29.0,2.0,-,-
+2020,Delhi,Ahmadabad,27.5,-,-,-
+2020,Delhi,Annual,76.0,-,-,-
+2020,Delhi,Bardez,30.0,-,-,-
+2020,Delhi,Bhavanafarm,31.0,-,-,-
+2020,Delhi,Bicholim,30.5,-,-,-
+2020,Delhi,Cadilla,25.0,-,-,-
+2020,Delhi,College,28.5,-,-,-
+2020,Delhi,Cuncolim,33.0,-,-,-
+2020,Delhi,Dandia,26.0,-,-,-
+2020,Delhi,Dharamshala,20.0,-,-,-
+2020,Delhi,General,33.666666666666664,-,-,-
+2020,Delhi,Geri,23.0,-,-,-
+2020,Delhi,Gondhpur,44.0,-,-,-
+2020,Delhi,Jamnagar,25.0,-,-,-
+2020,Delhi,Janakpuri,123.0,-,-,-
+2020,Delhi,Kala,61.0,-,-,-
+2020,Delhi,Kullu,12.0,-,-,-
+2020,Delhi,Kundaim,32.0,-,-,-
+2020,Delhi,Margao,29.0,-,-,-
+2020,Delhi,Mirzapur,28.0,-,-,-
+2020,Delhi,Near,34.0,-,-,-
+2020,Delhi,Paonta,34.0,-,-,-
+2020,Delhi,Patto,23.0,-,-,-
+2020,Delhi,Ponda,31.5,-,-,-
+2020,Delhi,Pritampura,145.0,-,-,-
+2020,Delhi,Rakhiyal,25.0,-,-,-
+2020,Delhi,Sanguem,29.0,-,-,-
+2020,Delhi,Saraspur,24.0,-,-,-
+2020,Delhi,Sardhara,29.0,-,-,-
+2020,Delhi,Sattari,32.0,-,-,-
+2020,Delhi,Sector,38.0,-,-,-
+2020,Delhi,Shahadra,114.0,-,-,-
+2020,Delhi,Shimla,20.0,-,-,-
+2020,Delhi,Tilamol,34.0,-,-,-
+2020,Delhi,Tuem,28.0,-,-,-
+2020,Delhi,Udhna,42.0,-,-,-
+2020,Delhi,Una,18.0,-,-,-
+2020,Delhi,Vapi,27.0,-,-,-
+2020,Delhi,Vill,30.0,-,-,-
+2020,Delhi,Winterfield,21.0,-,-,-
+2020,Jammu,Adityapur,72.0,29.0,-,-
+2020,Jammu,Annual,19.0,-,-,-
+2020,Jammu,Bari,101.5,3.0,-,-
+2020,Jammu,Bastacola,113.0,14.0,-,-
+2020,Jammu,Budgam,232.0,-,-,-
+2020,Jammu,Dhanbad,96.5,14.0,-,-
+2020,Jammu,General,100.8,8.5,-,-
+2020,Jammu,Golmuri,70.0,30.0,-,-
+2020,Jammu,Jamshedpur,71.0,30.0,-,-
+2020,Jammu,Jewel,71.0,3.0,-,-
+2020,Jammu,Khonmoh,162.0,-,-,-
+2020,Jammu,Kusunda,117.0,13.0,-,-
+2020,Jammu,Main,71.0,17.0,-,-
+2020,Jammu,Pulwama,128.0,-,-,-
+2020,Jammu,Srinagar,72.0,-,-,-
+2020,Karnataka,Akola,54.5,12.5,-,-
+2020,Karnataka,Alissery,24.5,2.0,-,-
+2020,Karnataka,Ambalamughal,30.0,2.0,-,-
+2020,Karnataka,Ambernath,57.0,18.0,-,-
+2020,Karnataka,Annual,-,17.0,-,-
+2020,Karnataka,Area,22.0,2.0,-,-
+2020,Karnataka,Arera,87.0,4.0,-,-
+2020,Karnataka,Badlapur,64.0,18.0,-,-
+2020,Karnataka,Bagalkote,23.333333333333332,2.0,-,-
+2020,Karnataka,Ballarshah,157.0,4.0,-,-
+2020,Karnataka,Bandigowda,25.0,2.0,-,-
+2020,Karnataka,Bangalore,15.0,3.0,-,-
+2020,Karnataka,Belgaum,37.333333333333336,2.0,-,-
+2020,Karnataka,Bhopal,127.5,-,-,-
+2020,Karnataka,Bhosari,91.0,14.0,-,-
+2020,Karnataka,Bidar,36.0,4.0,-,-
+2020,Karnataka,Chadagaon,45.0,3.0,-,-
+2020,Karnataka,Chamunda,59.0,9.0,-,-
+2020,Karnataka,Chandrapur,142.0,4.0,-,-
+2020,Karnataka,Chitradurga,18.666666666666668,3.0,-,-
+2020,Karnataka,Civil,61.0,8.0,-,-
+2020,Karnataka,Collector,70.0,17.0,-,-
+2020,Karnataka,College,68.5,18.0,-,-
+2020,Karnataka,Colony,39.0,6.0,-,-
+2020,Karnataka,Deendayal,43.5,3.0,-,-
+2020,Karnataka,Dewas,54.0,-,-,-
+2020,Karnataka,Dharwad,25.333333333333332,4.0,-,-
+2020,Karnataka,District,24.5,2.0,-,-
+2020,Karnataka,Dombivali,68.0,21.0,-,-
+2020,Karnataka,Eloor,32.333333333333336,2.0,-,-
+2020,Karnataka,Ernakulum,24.666666666666668,2.0,-,-
+2020,Karnataka,Garkheda,78.0,19.0,-,-
+2020,Karnataka,General,46.825,8.28,-,-
+2020,Karnataka,Girna,50.0,11.0,-,-
+2020,Karnataka,Govt,57.0,11.0,-,-
+2020,Karnataka,Grasim,45.0,11.0,-,-
+2020,Karnataka,Gulburga,45.0,3.0,-,-
+2020,Karnataka,Gwalior,93.5,14.0,-,-
+2020,Karnataka,Hassan,25.666666666666668,3.0,-,-
+2020,Karnataka,Hospital,55.0,29.0,-,-
+2020,Karnataka,Hubli,31.0,5.0,-,-
+2020,Karnataka,Irumpanam,22.333333333333332,2.0,-,-
+2020,Karnataka,Jabalpur,48.0,2.0,-,-
+2020,Karnataka,Kadappakada,25.5,2.0,-,-
+2020,Karnataka,Kalyan,54.0,29.0,-,-
+2020,Karnataka,Kanadia,51.5,10.0,-,-
+2020,Karnataka,Katni,71.0,9.0,-,-
+2020,Karnataka,Kottayam,24.0,2.0,-,-
+2020,Karnataka,Kozhikode,17.333333333333332,2.0,-,-
+2020,Karnataka,Krishna,75.0,9.0,-,-
+2020,Karnataka,Kshewraj,57.0,-,-,-
+2020,Karnataka,Kumarapattnam,18.5,3.0,-,-
+2020,Karnataka,Kuttipadam,48.666666666666664,3.0,-,-
+2020,Karnataka,Labour,33.0,16.0,-,-
+2020,Karnataka,Latur,58.0,-,-,-
+2020,Karnataka,Limited,55.0,16.0,-,-
+2020,Karnataka,Madhya,44.0,11.0,-,-
+2020,Karnataka,Mahakal,61.0,10.0,-,-
+2020,Karnataka,Maharaj,98.5,17.0,-,-
+2020,Karnataka,Makkamkunnu,24.0,2.0,-,-
+2020,Karnataka,Mangalore,29.666666666666668,6.0,-,-
+2020,Karnataka,Market,52.0,11.0,-,-
+2020,Karnataka,Mysore,42.0,2.0,-,-
+2020,Karnataka,Nagpur,101.0,9.0,-,-
+2020,Karnataka,Nallalam,15.666666666666666,2.0,-,-
+2020,Karnataka,Nashik,38.0,6.0,-,-
+2020,Karnataka,Near,71.66666666666667,16.333333333333332,-,-
+2020,Karnataka,Peenya,39.0,2.0,-,-
+2020,Karnataka,Pologround,51.5,11.0,-,-
+2020,Karnataka,Poonkunnam,19.5,2.0,-,-
+2020,Karnataka,Rajura,121.0,4.0,-,-
+2020,Karnataka,Regional,42.5,8.0,-,-
+2020,Karnataka,Road,67.5,13.0,-,-
+2020,Karnataka,Sadar,107.0,10.0,-,-
+2020,Karnataka,Sagar,42.5,3.0,-,-
+2020,Karnataka,Sangli,75.0,9.0,-,-
+2020,Karnataka,Satna,74.0,5.0,-,-
+2020,Karnataka,Shimoga,22.5,6.0,-,-
+2020,Karnataka,Shivaji,67.0,11.0,-,-
+2020,Karnataka,Sidhheshwar,58.0,-,-,-
+2020,Karnataka,Sijmak,21.0,2.0,-,-
+2020,Karnataka,Singrauli,99.5,29.0,-,-
+2020,Karnataka,Solapur,60.0,8.0,-,-
+2020,Karnataka,Stand,107.0,24.0,-,-
+2020,Karnataka,State,102.0,14.0,-,-
+2020,Karnataka,Swargate,125.0,16.0,-,-
+2020,Karnataka,Tadali,115.0,4.0,-,-
+2020,Karnataka,Taloja,50.5,13.5,-,-
+2020,Karnataka,Thane,83.0,19.666666666666668,-,-
+2020,Karnataka,Thiruvalla,24.5,2.0,-,-
+2020,Karnataka,Thiruvananthapuram,20.5,5.0,-,-
+2020,Karnataka,Thissur,20.0,2.0,-,-
+2020,Karnataka,Timukuru,37.666666666666664,2.0,-,-
+2020,Karnataka,Udaipur,59.5,13.0,-,-
+2020,Karnataka,Ujjain,62.0,10.0,-,-
+2020,Karnataka,Vadavathoor,25.0,2.0,-,-
+2020,Karnataka,Vaneeta,70.0,14.0,-,-
+2020,Karnataka,Vidyanagar,100.0,30.0,-,-
+2020,Karnataka,Vikas,49.5,16.0,-,-
+2020,Karnataka,Visvesvaraya,28.666666666666668,2.0,-,-
+2020,Karnataka,Vital,49.666666666666664,2.0,-,-
+2020,Karnataka,Vithalwadi,65.0,19.0,-,-
+2020,Karnataka,Voronoko,59.0,9.0,-,-
+2020,Karnataka,Waidhan,100.5,29.0,-,-
+2020,Karnataka,Wayanad,12.75,2.0,-,-
+2020,Karnataka,White,49.0,2.0,-,-
+2020,Karnataka,William,30.0,2.0,-,-
+2020,Karnataka,Yelahanka,47.0,2.0,-,-
+2020,Karnataka,Yeshwanthpura,41.333333333333336,2.0,-,-
+2020,Madhya Pradesh,Akola,13.0,-,-,-
+2020,Madhya Pradesh,Ambernath,39.0,-,-,-
+2020,Madhya Pradesh,Amlai,18.0,-,-,-
+2020,Madhya Pradesh,Arera,10.0,-,-,-
+2020,Madhya Pradesh,Badlapur,38.0,-,-,-
+2020,Madhya Pradesh,Ballarshah,27.0,-,-,-
+2020,Madhya Pradesh,Bhosari,47.0,-,-,-
+2020,Madhya Pradesh,Chadagaon,13.0,-,-,-
+2020,Madhya Pradesh,Chamunda,10.0,-,-,-
+2020,Madhya Pradesh,Chandrapur,27.5,-,-,-
+2020,Madhya Pradesh,Civil,23.0,-,-,-
+2020,Madhya Pradesh,Collector,40.0,-,-,-
+2020,Madhya Pradesh,College,41.0,-,-,-
+2020,Madhya Pradesh,Colony,23.0,-,-,-
+2020,Madhya Pradesh,Deendayal,14.0,-,-,-
+2020,Madhya Pradesh,Dewas,18.0,-,-,-
+2020,Madhya Pradesh,Dombivali,44.0,-,-,-
+2020,Madhya Pradesh,Garkheda,45.0,-,-,-
+2020,Madhya Pradesh,General,26.833333333333332,-,-,-
+2020,Madhya Pradesh,Girna,23.0,-,-,-
+2020,Madhya Pradesh,Govt,13.0,-,-,-
+2020,Madhya Pradesh,Grasim,15.0,-,-,-
+2020,Madhya Pradesh,Gwalior,19.0,-,-,-
+2020,Madhya Pradesh,Hospital,40.0,-,-,-
+2020,Madhya Pradesh,Jabalpur,14.0,-,-,-
+2020,Madhya Pradesh,Kalyan,42.0,-,-,-
+2020,Madhya Pradesh,Kanadia,19.0,-,-,-
+2020,Madhya Pradesh,Katni,23.5,-,-,-
+2020,Madhya Pradesh,Krishna,38.0,-,-,-
+2020,Madhya Pradesh,Labour,11.0,-,-,-
+2020,Madhya Pradesh,Limited,17.0,-,-,-
+2020,Madhya Pradesh,Mahakal,11.0,-,-,-
+2020,Madhya Pradesh,Maharaj,21.0,-,-,-
+2020,Madhya Pradesh,Market,24.0,-,-,-
+2020,Madhya Pradesh,Nagpur,25.0,-,-,-
+2020,Madhya Pradesh,Nashik,23.0,-,-,-
+2020,Madhya Pradesh,Near,33.666666666666664,-,-,-
+2020,Madhya Pradesh,Pologround,20.0,-,-,-
+2020,Madhya Pradesh,Rajura,27.0,-,-,-
+2020,Madhya Pradesh,Regional,9.0,-,-,-
+2020,Madhya Pradesh,Road,20.0,-,-,-
+2020,Madhya Pradesh,Sadar,26.0,-,-,-
+2020,Madhya Pradesh,Sagar,13.0,-,-,-
+2020,Madhya Pradesh,Sangli,44.0,-,-,-
+2020,Madhya Pradesh,Satna,12.0,-,-,-
+2020,Madhya Pradesh,Shivaji,24.0,-,-,-
+2020,Madhya Pradesh,Singrauli,36.0,-,-,-
+2020,Madhya Pradesh,Solapur,16.0,-,-,-
+2020,Madhya Pradesh,Stand,40.0,-,-,-
+2020,Madhya Pradesh,State,56.0,-,-,-
+2020,Madhya Pradesh,Swargate,62.0,-,-,-
+2020,Madhya Pradesh,Tadali,27.0,-,-,-
+2020,Madhya Pradesh,Taloja,42.5,-,-,-
+2020,Madhya Pradesh,Thane,29.333333333333332,-,-,-
+2020,Madhya Pradesh,Udaipur,17.0,-,-,-
+2020,Madhya Pradesh,Ujjain,11.0,-,-,-
+2020,Madhya Pradesh,Vaneeta,15.0,-,-,-
+2020,Madhya Pradesh,Vidyanagar,37.0,-,-,-
+2020,Madhya Pradesh,Vikas,17.0,-,-,-
+2020,Madhya Pradesh,Vithalwadi,42.0,-,-,-
+2020,Madhya Pradesh,Voronoko,17.0,-,-,-
+2020,Madhya Pradesh,Waidhan,36.0,-,-,-
+2020,Manipur,Block,21.0,3.0,-,-
+2020,Manipur,General,20.666666666666668,2.0,-,-
+2020,Manipur,Imphal,76.0,5.0,-,-
+2020,Manipur,Jaintia,19.333333333333332,3.0,-,-
+2020,Manipur,Lumpyngngad,17.0,2.0,-,-
+2020,Manipur,Mylliem,21.0,2.0,-,-
+2020,Manipur,Polo,21.0,4.0,-,-
+2020,Manipur,Ri,45.5,10.0,-,-
+2020,Manipur,State,31.666666666666668,7.0,-,-
+2020,Manipur,West,19.0,3.0,-,-
+2020,Mizoram,Bawngkawn,21.0,2.0,-,-
+2020,Mizoram,Building,14.5,2.0,-,-
+2020,Mizoram,Dawrpui,27.5,2.0,-,-
+2020,Mizoram,General,20.5,2.0,-,-
+2020,Mizoram,Kahrawt,11.0,2.0,-,-
+2020,Mizoram,Laipuitlang,12.5,2.0,-,-
+2020,Mizoram,Lengpui,18.5,2.0,-,-
+2020,Mizoram,Lunglei,8.0,2.0,-,-
+2020,Mizoram,Project,9.5,2.0,-,-
+2020,Mizoram,Salem,6.5,2.0,-,-
+2020,Mizoram,Vengthlang,16.0,2.0,-,-
+2020,Nagaland,Dhobinala,48.5,2.0,-,-
+2020,Nagaland,Dimapur,42.3,2.0,-,-
+2020,Nagaland,General,36.5,2.0,-,-
+2020,Nagaland,Kohima,41.0,2.0,-,-
+2020,Nagaland,Opposite,50.0,2.0,-,-
+2020,Odisha,Adiyar,20.0,-,-,-
+2020,Odisha,Ajnala,52.0,7.0,-,-
+2020,Odisha,Angul,49.333333333333336,10.0,-,-
+2020,Odisha,Anna,22.0,3.0,-,-
+2020,Odisha,Annual,12.0,18.0,-,-
+2020,Odisha,Badambadi,44.0,-,-,-
+2020,Odisha,Baghpat,103.0,-,-,-
+2020,Odisha,Balasore,42.333333333333336,2.0,-,-
+2020,Odisha,Bareily,27.0,-,-,-
+2020,Odisha,Barwala,59.5,7.0,-,-
+2020,Odisha,Batala,50.75,6.0,-,-
+2020,Odisha,Berhampur,31.0,4.0,-,-
+2020,Odisha,Bhanakarpur,60.5,7.0,-,-
+2020,Odisha,Bishop,19.0,-,-,-
+2020,Odisha,Bodla,86.0,-,-,-
+2020,Odisha,Building,46.666666666666664,7.0,-,-
+2020,Odisha,Bulandshaar,114.0,-,-,-
+2020,Odisha,Chamber,18.0,3.0,-,-
+2020,Odisha,Chandrashekharpur,38.0,2.0,-,-
+2020,Odisha,Civil,27.0,-,-,-
+2020,Odisha,Colony,52.0,10.0,-,-
+2020,Odisha,Cuddalore,33.5,-,-,-
+2020,Odisha,Dabwali,64.0,6.0,-,-
+2020,Odisha,Dera,40.5,7.0,-,-
+2020,Odisha,Dholewal,88.5,8.0,-,-
+2020,Odisha,Estate,22.5,3.0,-,-
+2020,Odisha,Ferozpur,78.0,7.0,-,-
+2020,Odisha,Focal,91.5,12.0,-,-
+2020,Odisha,Garshankar,68.5,6.0,-,-
+2020,Odisha,General,59.03225806451613,6.636363636363637,-,-
+2020,Odisha,Ghaziabad,96.0,-,-,-
+2020,Odisha,Golden,19.0,-,-,-
+2020,Odisha,Goraya,55.5,6.0,-,-
+2020,Odisha,Greater,113.5,-,-,-
+2020,Odisha,Hapur,137.0,-,-,-
+2020,Odisha,Hospital,44.666666666666664,7.0,-,-
+2020,Odisha,Jaykaypur,38.333333333333336,4.0,-,-
+2020,Odisha,Kalinga,66.0,2.0,-,-
+2020,Odisha,Kalunga,52.666666666666664,7.0,-,-
+2020,Odisha,Kapurthala,77.0,10.0,-,-
+2020,Odisha,Khandagiri,44.0,2.0,-,-
+2020,Odisha,Kilpauk,21.0,-,-,-
+2020,Odisha,Konark,60.0,2.0,-,-
+2020,Odisha,Kotkapura,69.0,5.0,-,-
+2020,Odisha,Kovilpathu,23.0,2.0,-,-
+2020,Odisha,Kunjaban,49.0,-,-,-
+2020,Odisha,Ludhiana,82.0,8.0,-,-
+2020,Odisha,Malerkotla,63.5,6.0,-,-
+2020,Odisha,Manali,30.0,-,-,-
+2020,Odisha,Mandi,65.66666666666667,7.0,-,-
+2020,Odisha,Modipara,43.666666666666664,5.0,-,-
+2020,Odisha,Nawashahar,69.5,9.0,-,-
+2020,Odisha,Near,75.0,-,-,-
+2020,Odisha,Nehru,19.0,2.0,-,-
+2020,Odisha,Noida,110.0,-,-,-
+2020,Odisha,Nunbakgum,22.0,-,-,-
+2020,Odisha,Nunhai,102.0,-,-,-
+2020,Odisha,Office,55.5,2.0,-,-
+2020,Odisha,On,51.333333333333336,18.0,-,-
+2020,Odisha,Paradeep,68.0,-,-,-
+2020,Odisha,Payal,82.0,9.0,-,-
+2020,Odisha,Puri,42.5,2.0,-,-
+2020,Odisha,Railway,60.0,-,-,-
+2020,Odisha,Rajgangpur,46.666666666666664,7.0,-,-
+2020,Odisha,Rambagh,114.0,-,-,-
+2020,Odisha,Rasalgarh,39.0,-,-,-
+2020,Odisha,Rasalpur,46.333333333333336,7.0,-,-
+2020,Odisha,Rayagada,36.0,4.0,-,-
+2020,Odisha,Regional,107.0,13.0,-,-
+2020,Odisha,Rourkela,54.0,-,-,-
+2020,Odisha,Samana,58.0,7.0,-,-
+2020,Odisha,Sangareddy,36.0,-,-,-
+2020,Odisha,Sangrur,65.0,6.0,-,-
+2020,Odisha,School,22.0,-,-,-
+2020,Odisha,Sector,528.0,-,-,-
+2020,Odisha,Sirhind,58.0,7.0,-,-
+2020,Odisha,Sonaparbat,41.0,6.0,-,-
+2020,Odisha,Sundergarh,48.333333333333336,7.0,-,-
+2020,Odisha,Surya,50.0,3.0,-,-
+2020,Odisha,Taj,115.0,-,-,-
+2020,Odisha,Talcher,53.0,9.0,-,-
+2020,Odisha,Tapa,65.5,7.0,-,-
+2020,Odisha,Tehsil,77.0,-,-,-
+2020,Odisha,Thiruvottiyur,29.0,-,-,-
+2020,Odisha,Thiyagaraya,24.0,-,-,-
+2020,Odisha,Trichy,19.0,-,-,-
+2020,Odisha,Vishavkarma,125.0,10.0,-,-
+2020,Odisha,Work,120.0,-,-,-
+2020,Odisha,Zoo,46.0,-,-,-
+2020,Punjab,General,56.0,7.0,-,-
+2020,Punjab,Naya,59.0,7.5,-,-
+2020,Punjab,Patiala,59.166666666666664,7.0,-,-
+2020,Punjab,Samrala,86.5,8.0,-,-
+2020,Punjab,Sangrur,60.0,6.0,-,-
+2020,Rajasthan,Alwar,88.5,-,-,-
+2020,Rajasthan,Anantpura,81.5,6.0,-,-
+2020,Rajasthan,Annual,-,10.0,-,-
+2020,Rajasthan,Bharatpur,109.5,9.0,-,-
+2020,Rajasthan,Building,107.0,19.5,-,-
+2020,Rajasthan,Chandpole,80.5,7.0,-,-
+2020,Rajasthan,Chnaderiya,79.5,10.0,-,-
+2020,Rajasthan,Chopasani,89.5,5.0,-,-
+2020,Rajasthan,Fire,54.0,6.0,-,-
+2020,Rajasthan,General,85.22727272727273,9.636363636363637,-,-
+2020,Rajasthan,Industrial,88.0,5.0,-,-
+2020,Rajasthan,Jaipur,86.0,7.0,-,-
+2020,Rajasthan,Jhalana,86.0,7.0,-,-
+2020,Rajasthan,Kudi,110.0,5.0,-,-
+2020,Rajasthan,Maha,86.0,5.0,-,-
+2020,Rajasthan,Mansarovar,63.0,6.0,-,-
+2020,Rajasthan,Meeranagar,68.5,9.0,-,-
+2020,Rajasthan,Municipal,68.0,6.0,-,-
+2020,Rajasthan,Rawatbhata,54.0,-,-,-
+2020,Rajasthan,Sangariya,115.5,6.0,-,-
+2020,Rajasthan,Segawa,56.0,7.0,-,-
+2020,Rajasthan,Shastri,78.0,5.0,-,-
+2020,Rajasthan,Sojati,103.0,6.0,-,-
+2020,Rajasthan,Soorsagar,75.0,4.0,-,-
+2020,Rajasthan,Town,79.5,9.0,-,-
+2020,Rajasthan,Udaipur,76.0,5.0,-,-
+2020,Rajasthan,Uttam,110.5,29.0,-,-
+2020,Rajasthan,Vidyadhar,88.0,7.0,-,-
+2020,Sikkim,Adiyar,31.0,8.0,-,-
+2020,Sikkim,Aliganj,95.5,7.0,-,-
+2020,Sikkim,Allahabad,116.5,-,-,-
+2020,Sikkim,Alopibagh,118.0,-,-,-
+2020,Sikkim,Anna,36.5,10.0,-,-
+2020,Sikkim,Annual,16.5,9.5,-,-
+2020,Sikkim,Ansal,99.0,7.0,-,-
+2020,Sikkim,Area,63.5,7.0,-,-
+2020,Sikkim,Baghpat,109.0,10.0,-,-
+2020,Sikkim,Banaras,77.0,6.0,-,-
+2020,Sikkim,Bareily,80.5,23.0,-,-
+2020,Sikkim,Bharat,98.5,-,-,-
+2020,Sikkim,Bishop,25.0,10.0,-,-
+2020,Sikkim,Bodla,84.5,4.0,-,-
+2020,Sikkim,Building,34.5,11.0,-,-
+2020,Sikkim,Bulandshaar,126.0,11.0,-,-
+2020,Sikkim,Central,31.5,14.0,-,-
+2020,Sikkim,Chamber,135.5,10.0,-,-
+2020,Sikkim,Chandpur,109.0,8.0,-,-
+2020,Sikkim,Charminar,64.5,4.0,-,-
+2020,Sikkim,Chungthang,11.5,5.0,-,-
+2020,Sikkim,Civil,120.5,25.5,-,-
+2020,Sikkim,Coimbatore,35.0,8.0,-,-
+2020,Sikkim,Cuddalore,37.75,14.5,-,-
+2020,Sikkim,Etmad,99.5,4.0,-,-
+2020,Sikkim,Firozabad,105.5,8.0,-,-
+2020,Sikkim,Gaddapothara,52.5,5.0,-,-
+2020,Sikkim,General,67.36363636363636,8.4,-,-
+2020,Sikkim,Ghaziabad,114.0,9.5,-,-
+2020,Sikkim,Golden,25.0,-,-,-
+2020,Sikkim,Golghar,96.5,7.0,-,-
+2020,Sikkim,Gorakhpur,100.5,11.0,-,-
+2020,Sikkim,Govind,143.5,11.0,-,-
+2020,Sikkim,Greater,124.0,10.0,-,-
+2020,Sikkim,Gulab,55.0,6.0,-,-
+2020,Sikkim,Hanumakonda,50.0,7.0,-,-
+2020,Sikkim,Hapur,125.25,18.0,-,-
+2020,Sikkim,Haridwar,60.5,10.0,-,-
+2020,Sikkim,Hazratganj,118.0,8.0,-,-
+2020,Sikkim,Hyderabad,77.0,5.0,-,-
+2020,Sikkim,Jajmau,113.5,-,-,-
+2020,Sikkim,Jalasoudha,53.5,7.0,-,-
+2020,Sikkim,Jawahar,89.0,7.0,-,-
+2020,Sikkim,Jhansi,104.0,6.0,-,-
+2020,Sikkim,Jhonstonganj,90.0,-,-,-
+2020,Sikkim,Jublee,60.0,4.0,-,-
+2020,Sikkim,Kanpur,103.5,4.0,-,-
+2020,Sikkim,Karimnagar,71.0,7.0,-,-
+2020,Sikkim,Kashipur,70.0,13.0,-,-
+2020,Sikkim,Kathivakkam,33.0,13.0,-,-
+2020,Sikkim,Khammam,58.0,7.0,-,-
+2020,Sikkim,Khoya,65.5,10.0,-,-
+2020,Sikkim,Khurja,115.5,20.0,-,-
+2020,Sikkim,Kidwai,150.5,12.0,-,-
+2020,Sikkim,Kilpauk,32.0,9.0,-,-
+2020,Sikkim,Kochadai,39.0,13.0,-,-
+2020,Sikkim,Kothur,86.0,8.0,-,-
+2020,Sikkim,Krishna,52.5,8.0,-,-
+2020,Sikkim,Kunjaban,37.5,8.0,-,-
+2020,Sikkim,Kunnathur,36.5,12.0,-,-
+2020,Sikkim,Lucknow,111.5,8.0,-,-
+2020,Sikkim,Maholi,80.0,10.0,-,-
+2020,Sikkim,Main,36.0,14.0,-,-
+2020,Sikkim,Manali,35.0,14.0,-,-
+2020,Sikkim,Mancherial,49.0,5.0,-,-
+2020,Sikkim,Mangan,17.5,4.0,-,-
+2020,Sikkim,Mathura,90.0,12.0,-,-
+2020,Sikkim,Mettur,28.0,7.0,-,-
+2020,Sikkim,Modern,69.0,5.0,-,-
+2020,Sikkim,Municipal,56.5,7.0,-,-
+2020,Sikkim,Nagar,95.33333333333333,14.333333333333334,-,-
+2020,Sikkim,Nalgonda,37.5,5.0,-,-
+2020,Sikkim,Namchi,16.5,5.0,-,-
+2020,Sikkim,Near,80.625,15.0,-,-
+2020,Sikkim,Noida,117.5,9.5,-,-
+2020,Sikkim,Nunbakgum,33.0,9.0,-,-
+2020,Sikkim,Nunhai,110.0,6.0,-,-
+2020,Sikkim,On,31.0,6.0,-,-
+2020,Sikkim,Paradise,64.0,4.0,-,-
+2020,Sikkim,Pelling,12.5,4.0,-,-
+2020,Sikkim,Railway,82.0,14.0,-,-
+2020,Sikkim,Raja,41.5,7.0,-,-
+2020,Sikkim,Ramachadrapuram,52.0,5.0,-,-
+2020,Sikkim,Rambagh,100.0,3.0,-,-
+2020,Sikkim,Rangpo,30.5,7.0,-,-
+2020,Sikkim,Ravangla,13.5,4.0,-,-
+2020,Sikkim,Raza,102.0,8.0,-,-
+2020,Sikkim,Regional,44.5,5.0,-,-
+2020,Sikkim,Rishikesh,68.5,20.0,-,-
+2020,Sikkim,Rudrapur,70.5,13.0,-,-
+2020,Sikkim,Saharanpur,110.0,13.0,-,-
+2020,Sikkim,Saket,72.5,6.0,-,-
+2020,Sikkim,Salem,30.5,7.0,-,-
+2020,Sikkim,Sangareddy,69.0,6.0,-,-
+2020,Sikkim,School,38.0,6.0,-,-
+2020,Sikkim,Sector,508.0,25.0,-,-
+2020,Sikkim,Sigra,90.5,7.0,-,-
+2020,Sikkim,Singtam,24.0,6.0,-,-
+2020,Sikkim,Site,108.0,10.0,-,-
+2020,Sikkim,Sonabhadra,86.25,16.0,-,-
+2020,Sikkim,Station,141.0,26.0,-,-
+2020,Sikkim,Taj,90.0,4.0,-,-
+2020,Sikkim,Talkatora,131.5,8.0,-,-
+2020,Sikkim,Tasi,26.0,6.0,-,-
+2020,Sikkim,Tehsil,84.5,15.0,-,-
+2020,Sikkim,Thiruvottiyur,32.5,13.0,-,-
+2020,Sikkim,Thiyagaraya,39.0,10.0,-,-
+2020,Sikkim,Tilak,105.0,7.0,-,-
+2020,Sikkim,Trichy,36.0,11.0,-,-
+2020,Sikkim,Tuticorin,40.5,6.0,-,-
+2020,Sikkim,Veeranga,52.5,5.0,-,-
+2020,Sikkim,Vikas,129.0,2.0,-,-
+2020,Sikkim,Women,69.0,8.0,-,-
+2020,Sikkim,Work,145.0,12.0,-,-
+2020,Sikkim,Zoo,76.0,4.0,-,-
+2020,West Bengal,Abhirampur,69.0,9.0,-,-
+2020,West Bengal,Adjacent,42.0,-,-,-
+2020,West Bengal,Alipurduar,60.5,9.0,-,-
+2020,West Bengal,Amtala,64.0,6.0,-,-
+2020,West Bengal,Angadpur,71.5,13.0,-,-
+2020,West Bengal,Annual,58.0,-,-,-
+2020,West Bengal,Apparao,54.0,-,-,-
+2020,West Bengal,Asansol,69.33333333333333,13.0,-,-
+2020,West Bengal,Autonagar,23.0,-,-,-
+2020,West Bengal,Bagan,73.5,13.0,-,-
+2020,West Bengal,Baharampur,44.5,2.0,-,-
+2020,West Bengal,Baishnabghata,87.5,8.0,-,-
+2020,West Bengal,Balurghat,67.0,9.0,-,-
+2020,West Bengal,Bamunimaidam,78.0,-,-,-
+2020,West Bengal,Bandhaghat,84.5,14.0,-,-
+2020,West Bengal,Banglow,36.0,-,-,-
+2020,West Bengal,Bankura,47.0,2.0,-,-
+2020,West Bengal,Barjora,74.0,14.0,-,-
+2020,West Bengal,Barpara,47.0,-,-,-
+2020,West Bengal,Barrackpore,51.5,4.0,-,-
+2020,West Bengal,Baruipur,89.5,9.0,-,-
+2020,West Bengal,Baska,29.0,-,-,-
+2020,West Bengal,Bator,77.66666666666667,13.0,-,-
+2020,West Bengal,Beliaghata,83.5,7.0,-,-
+2020,West Bengal,Benachiti,71.0,13.0,-,-
+2020,West Bengal,Benz,42.0,-,-,-
+2020,West Bengal,Bhabanipur,62.5,11.0,-,-
+2020,West Bengal,Bhunia,63.0,12.0,-,-
+2020,West Bengal,Birpara,61.5,9.0,-,-
+2020,West Bengal,Bolpur,44.5,2.0,-,-
+2020,West Bengal,Borguri,40.0,-,-,-
+2020,West Bengal,Brindavnam,54.0,-,-,-
+2020,West Bengal,Burnpur,73.5,14.0,-,-
+2020,West Bengal,Chandramouli,54.0,-,-,-
+2020,West Bengal,Chirang,52.0,-,-,-
+2020,West Bengal,Chitoor,33.5,-,-,-
+2020,West Bengal,Chittoor,37.0,-,-,-
+2020,West Bengal,Circle,60.0,-,-,-
+2020,West Bengal,Coochbehar,62.5,9.0,-,-
+2020,West Bengal,Dankuni,45.0,3.0,-,-
+2020,West Bengal,Darjeeling,39.666666666666664,8.0,-,-
+2020,West Bengal,Dhulagar,77.5,14.0,-,-
+2020,West Bengal,Dibrugarh,26.0,-,-,-
+2020,West Bengal,District,63.0,-,-,-
+2020,West Bengal,Dum,46.5,3.0,-,-
+2020,West Bengal,Durg,49.0,-,-,-
+2020,West Bengal,Durgachak,58.2,12.5,-,-
+2020,West Bengal,Durgapur,69.0,13.0,-,-
+2020,West Bengal,Eluru,61.0,-,-,-
+2020,West Bengal,Ganapuram,64.5,-,-,-
+2020,West Bengal,Gannavaram,40.5,-,-,-
+2020,West Bengal,Gariahat,53.5,5.0,-,-
+2020,West Bengal,General,57.3235294117647,7.6,-,-
+2020,West Bengal,Ghaniwala,36.0,-,-,-
+2020,West Bengal,Ghatal,65.5,12.0,-,-
+2020,West Bengal,Ghuseri,84.0,15.0,-,-
+2020,West Bengal,Golaghat,51.0,-,-,-
+2020,West Bengal,Gopinath,80.5,-,-,-
+2020,West Bengal,Governorpet,58.0,-,-,-
+2020,West Bengal,Greamspet,27.0,-,-,-
+2020,West Bengal,Gundlapalli,48.0,-,-,-
+2020,West Bengal,Gurunank,37.5,-,-,-
+2020,West Bengal,Hirapur,51.0,-,-,-
+2020,West Bengal,Howrah,78.0,13.0,-,-
+2020,West Bengal,Hyde,92.0,10.0,-,-
+2020,West Bengal,Industrial,81.33333333333333,-,-,-
+2020,West Bengal,Inside,66.33333333333333,8.0,-,-
+2020,West Bengal,Jaigaon,59.5,9.0,-,-
+2020,West Bengal,Jalpaiguri,60.0,8.0,-,-
+2020,West Bengal,Jamnipali,28.5,-,-,-
+2020,West Bengal,Jamuria,73.5,13.0,-,-
+2020,West Bengal,Janiganj,50.0,-,-,-
+2020,West Bengal,Jhargram,39.0,12.0,-,-
+2020,West Bengal,Kadapa,53.0,-,-,-
+2020,West Bengal,Kaimbwala,73.0,-,-,-
+2020,West Bengal,Kakinada,50.0,-,-,-
+2020,West Bengal,Kalimpong,47.5,8.0,-,-
+2020,West Bengal,Kallur,41.5,-,-,-
+2020,West Bengal,Kalyani,44.666666666666664,3.0,-,-
+2020,West Bengal,Kamrup,66.0,-,-,-
+2020,West Bengal,Kanuru,33.5,-,-,-
+2020,West Bengal,Khardah,48.5,4.0,-,-
+2020,West Bengal,Kondaplli,60.0,-,-,-
+2020,West Bengal,Krishna,33.0,-,-,-
+2020,West Bengal,Kushalapuram,60.0,-,-,-
+2020,West Bengal,Laghu,52.0,-,-,-
+2020,West Bengal,Madhyamgram,49.5,4.0,-,-
+2020,West Bengal,Maniktala,74.0,12.0,-,-
+2020,West Bengal,Margherita,31.0,-,-,-
+2020,West Bengal,Market,43.0,-,-,-
+2020,West Bengal,Marripalem,60.5,-,-,-
+2020,West Bengal,Medinipur,63.5,12.0,-,-
+2020,West Bengal,Mindi,53.5,-,-,-
+2020,West Bengal,Mominpur,60.0,5.0,-,-
+2020,West Bengal,Moulali,72.33333333333333,8.0,-,-
+2020,West Bengal,Muchipara,60.333333333333336,8.0,-,-
+2020,West Bengal,Muncipal,41.0,-,-,-
+2020,West Bengal,Municipal,53.5,-,-,-
+2020,West Bengal,Nagaon,74.0,-,-,-
+2020,West Bengal,National,93.5,9.0,-,-
+2020,West Bengal,Near,66.4,12.5,-,-
+2020,West Bengal,Nellore,27.0,-,-,-
+2020,West Bengal,North,46.0,-,-,-
+2020,West Bengal,Old,56.0,-,-,-
+2020,West Bengal,Ongole,40.0,-,-,-
+2020,West Bengal,Paidichintaadu,60.0,-,-,-
+2020,West Bengal,Palamaner,48.0,-,-,-
+2020,West Bengal,Paper,61.0,-,-,-
+2020,West Bengal,Parawada,54.0,-,-,-
+2020,West Bengal,Paribesh,66.5,5.0,-,-
+2020,West Bengal,Picnic,70.5,8.0,-,-
+2020,West Bengal,Pipulpati,46.0,3.0,-,-
+2020,West Bengal,Pithapuram,48.0,-,-,-
+2020,West Bengal,Police,47.5,-,-,-
+2020,West Bengal,Prakasam,49.0,-,-,-
+2020,West Bengal,Pundibari,62.0,9.0,-,-
+2020,West Bengal,Purulia,45.0,2.0,-,-
+2020,West Bengal,Pydibhimavaram,49.5,-,-,-
+2020,West Bengal,Raigarh,36.5,-,-,-
+2020,West Bengal,Raigunj,62.5,9.0,-,-
+2020,West Bengal,Rajarhar,79.0,7.0,-,-
+2020,West Bengal,Rajbati,47.5,2.0,-,-
+2020,West Bengal,Rajiv,37.0,-,-,-
+2020,West Bengal,Rajvihar,50.5,-,-,-
+2020,West Bengal,Ram,54.0,-,-,-
+2020,West Bengal,Rampur,37.0,-,-,-
+2020,West Bengal,Rampurhat,48.0,2.0,-,-
+2020,West Bengal,Raniganj,73.5,13.0,-,-
+2020,West Bengal,Ring,42.0,-,-,-
+2020,West Bengal,Rishi,49.5,4.0,-,-
+2020,West Bengal,Rishra,48.0,3.0,-,-
+2020,West Bengal,Roads,44.0,-,-,-
+2020,West Bengal,Rooftop,69.5,6.0,-,-
+2020,West Bengal,Sailipeta,48.0,-,-,-
+2020,West Bengal,Sankrail,66.5,11.0,-,-
+2020,West Bengal,Santipur,94.0,-,-,-
+2020,West Bengal,Sarora,55.0,-,-,-
+2020,West Bengal,Satrampadu,60.0,-,-,-
+2020,West Bengal,Sector,204.0,-,-,-
+2020,West Bengal,Seethammadhara,40.5,-,-,-
+2020,West Bengal,Shastri,150.0,-,-,-
+2020,West Bengal,Shyambazar,69.66666666666667,8.0,-,-
+2020,West Bengal,Siliguri,58.0,9.0,-,-
+2020,West Bengal,Sivasagar,43.0,-,-,-
+2020,West Bengal,Suri,46.5,2.0,-,-
+2020,West Bengal,Suryaraopeta,54.0,-,-,-
+2020,West Bengal,Tezpur,53.0,-,-,-
+2020,West Bengal,Tilak,49.0,-,-,-
+2020,West Bengal,Tollygunge,59.5,5.0,-,-
+2020,West Bengal,Topsia,79.5,8.0,-,-
+2020,West Bengal,Traffic,60.0,7.0,-,-
+2020,West Bengal,Tribeni,45.0,3.0,-,-
+2020,West Bengal,Ultadanga,81.5,8.0,-,-
+2020,West Bengal,Vedayapalem,60.0,-,-,-
+2020,West Bengal,Venkataramana,29.0,-,-,-
+2020,West Bengal,Yenamalakuduru,34.0,-,-,-
